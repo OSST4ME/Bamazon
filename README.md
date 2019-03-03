@@ -1,2 +1,0 @@
-# Bamazon
-Bamazon Homework
