@@ -1,2 +1,2 @@
-# Bamazon-Customer.js
+# Bamazon
 Bamazon Homework
